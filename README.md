@@ -4,7 +4,7 @@ Machine learning pipeline for binary classification of breast cancer from routin
  
 ## Structure
  
-- `ML_PROJECT.ipynb` — single notebook covering the full pipeline: EDA → preprocessing → feature selection → feature reduction → classifier training & evaluation → best classifier selection
+- `ML_PROJECT.ipynb` - single notebook covering the full pipeline: EDA → preprocessing → feature selection → feature reduction → classifier training & evaluation → best classifier selection
 ## Usage
  
 1. Open `ML_PROJECT.ipynb` in Google Colab (it uses `google.colab.files.upload()` to load the dataset).
